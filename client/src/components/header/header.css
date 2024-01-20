@@ -24,6 +24,30 @@ h3 {
   /* border: 1px solid red; */
 }
 
+.TeamPlacement {
+  font-size: 42px;
+}
+
+.TeamPlacement.FirstPlace {
+  color: #ffd700;
+}
+
+.TeamPlacement.SecondPlace {
+  color: #c0c0c0;
+}
+
+.TeamPlacement.ThirdPlace {
+  color: #cd7f32;
+}
+
+.TeamPlacement.FourthPlace {
+  color: #000000;
+}
+
+.TeamPlacement.FifthPlace {
+  color: #000000;
+}
+
 .TeamName {
   font-size: 32px;
 }
