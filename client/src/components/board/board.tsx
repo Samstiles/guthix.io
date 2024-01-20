@@ -79,7 +79,9 @@ export default function Board() {
     <div className="Board">
       {manyHexes}
 
-      <h1>Still a work in progress, finishing this later</h1>
+      <h1 style={{ position: "relative", top: "500px" }}>
+        Still a work in progress, finishing this later
+      </h1>
     </div>
   );
 }
