@@ -1,1 +1,14 @@
-{}
+{
+  "tile_123": {
+    "name": "Any Drop Over 5M",
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/thumb/Coins_detail.png/240px-Coins_detail.png?404bc",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
+  }
+}
