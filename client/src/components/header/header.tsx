@@ -6,7 +6,7 @@ import kj2Details from "../../data/team_kj2.json";
 import nachoDetails from "../../data/team_nacho.json";
 import tengeepeeDetails from "../../data/team_tengeepee.json";
 
-const maximumPoints = 9000;
+const maximumPoints = undefined;
 
 function calculateTeamScore(teamDetails: any) {
   return Math.floor(Math.random() * 1000);
@@ -18,7 +18,8 @@ const teamEntry = (teamDetails: any, cssClass: string) => {
     <div className={`Team animate__animated ${cssClass}`}>
       <h4 className="TeamName">{teamName}</h4>
       <h3 className="TeamScore">
-        {score} / {maximumPoints}
+        {score}
+        {maximumPoints === undefined ? `` : `/ ${maximumPoints}`}
       </h3>
     </div>
   );
