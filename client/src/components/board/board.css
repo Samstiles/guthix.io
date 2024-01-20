@@ -1,6 +1,11 @@
 .Board {
   text-align: center;
   margin-top: 50px;
+  position: relative;
+  width: 1500px;
+  height: 1000px;
+  /* border: 1px solid red; */
+  display: inline-block;
 }
 
 .HexBoardTile {

@@ -39,5 +39,275 @@
         "offsetLeft": 5
       }
     ]
+  },
+
+  "tile_153a": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153b": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153c": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153d": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153e": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153f": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153g": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153h": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153i": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
+  },
+
+  "tile_153j": {
+    "tileId": "153",
+    "name": "100 Mole Skins, 1 Giant Egg Sack, or 100 Bolt Racks",
+    "fontSize": 12,
+    "pointValueClass": "green",
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mole_skin_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -10,
+        "offsetLeft": -30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_egg_sac_detail.png",
+        "heightInPx": 30,
+        "offsetTop": -5,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bolt_rack_detail.png",
+        "heightInPx": 30,
+        "offsetTop": 20,
+        "offsetLeft": 5
+      }
+    ]
   }
 }
