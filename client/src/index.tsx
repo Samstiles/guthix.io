@@ -14,9 +14,17 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <>
-      <Title />
-      <Header />
-      <Board />
+      <div className="too-small">
+        <h3>
+          Your screen is too small, Sam didn't account for this. Try a bigger
+          screen bruv 💩
+        </h3>
+      </div>
+      <div className="Game">
+        <Title />
+        <Header />
+        <Board />
+      </div>
     </>
   </React.StrictMode>
 );

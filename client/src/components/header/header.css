@@ -1,5 +1,5 @@
 .Header {
-  margin-top: 40px;
+  margin-top: 10px;
   display: flex;
 }
 
@@ -21,7 +21,14 @@ h3 {
 
 .Team {
   text-align: center;
+  padding: 7px 15px;
+  border-radius: 10px;
   /* border: 1px solid red; */
+
+  &:hover {
+    background-color: red;
+    cursor: pointer;
+  }
 }
 
 .TeamPlacement {
@@ -54,4 +61,18 @@ h3 {
 
 .TeamScore {
   font-size: 28px;
+}
+
+.CurrentScores {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 44px;
+}
+
+.LastUpdated {
+  margin-top: 0px;
+  position: relative;
+  top: -5px;
+  text-align: center;
+  font-size: 16px;
 }

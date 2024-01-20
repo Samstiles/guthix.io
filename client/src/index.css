@@ -17,3 +17,22 @@ body {
   background-color: #282c34;
   color: #fff;
 }
+
+.too-small {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: 48px;
+  display: none;
+}
+
+@media screen and (max-width: 1000px) {
+  .Game {
+    display: none !important;
+  }
+
+  .too-small {
+    display: flex !important;
+  }
+}
