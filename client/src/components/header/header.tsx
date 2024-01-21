@@ -121,7 +121,7 @@ export default function Header() {
   return (
     <>
       <h3 className="CurrentScores">Current Scores</h3>
-      <h4 className="LastUpdated">Last Updated: Jan 20, 5:00PM EST</h4>
+      <h4 className="LastUpdated">Last Updated: Jan 21, 9:00AM EST</h4>
       <div className="Header">{teamEntries()}</div>
     </>
   );
