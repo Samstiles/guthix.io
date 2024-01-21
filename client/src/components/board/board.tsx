@@ -153,9 +153,12 @@ export default function Board() {
 
   return (
     <>
-      <h1 className="ChooseTeamPrompt">
-        Select A Team Above To View Their Progress!
-      </h1>
+      {selectedTeam === null && (
+        <h1 className="ChooseTeamPrompt">
+          Select A Team Above To View Their Progress!
+        </h1>
+      )}
+
       <div className="Board">{manyHexes}</div>
     </>
   );
