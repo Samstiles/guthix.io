@@ -998,14 +998,14 @@
   "tile_263": {
     "tileId": "263",
     "name": "Any two *different* CoX Purples",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Great_Olm.png",
         "heightInPx": 100,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -60
       }
     ]
   },
@@ -1017,10 +1017,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Soulreaper_axe_detail.png",
         "heightInPx": 100,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -30
       }
     ]
   },
