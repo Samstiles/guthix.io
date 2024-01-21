@@ -240,10 +240,10 @@
     "pointValueClass": "green",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Dragon_boots_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -10,
+        "offsetLeft": -12
       }
     ]
   },
@@ -255,40 +255,52 @@
     "pointValueClass": "green",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Nihil_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -15,
+        "offsetLeft": -10
       }
     ]
   },
 
   "tile_44b": {
     "tileId": "44b",
-    "name": "Any 3 Different Heads",
-    "fontSize": 18,
+    "name": "Any 3 Different Heads (excluding ensouled)",
+    "fontSize": 14,
     "pointValueClass": "green",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Vorkath's_head_detail.png",
+        "heightInPx": 90,
+        "offsetTop": -20,
+        "offsetLeft": -5
       }
     ]
   },
 
   "tile_60": {
     "tileId": "60",
-    "name": "Mossy Key, Giant Key, AND Full Dark Totem",
-    "fontSize": 18,
+    "name": "Mossy Key, Giant Key AND a Full Dark Totem",
+    "fontSize": 16,
     "pointValueClass": "green",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Mossy_key_detail.png",
+        "heightInPx": 35,
+        "offsetTop": -3,
+        "offsetLeft": 35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Giant_key_detail.png",
         "heightInPx": 50,
-        "offsetTop": 0,
+        "offsetTop": -20,
         "offsetLeft": 0
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dark_totem_detail.png",
+        "heightInPx": 50,
+        "offsetTop": -15,
+        "offsetLeft": -30
       }
     ]
   },
@@ -296,14 +308,20 @@
   "tile_46a": {
     "tileId": "46a",
     "name": "Leaf Bladed Sword or Battleaxe",
-    "fontSize": 18,
+    "fontSize": 16,
     "pointValueClass": "green",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Leaf-bladed_battleaxe_detail.png",
+        "heightInPx": 55,
+        "offsetTop": -3,
+        "offsetLeft": 20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Leaf-bladed_sword_detail.png",
+        "heightInPx": 65,
+        "offsetTop": -10,
+        "offsetLeft": -30
       }
     ]
   },
@@ -315,10 +333,10 @@
     "pointValueClass": "green",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Warped_sceptre_detail.png",
+        "heightInPx": 80,
+        "offsetTop": -14,
+        "offsetLeft": -20
       }
     ]
   },
@@ -330,10 +348,16 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Holy_elixir_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -20,
+        "offsetLeft": -20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Spirit_shield_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -20,
+        "offsetLeft": 15
       }
     ]
   },
@@ -345,10 +369,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Dagannoth_Rex.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -360,40 +384,40 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Unsired_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
 
   "tile_24": {
     "tileId": "24",
-    "name": "Sarachnis Unique (except egg sack)",
-    "fontSize": 18,
+    "name": "Any Sarachnis Unique (except egg sack)",
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Sarachnis.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -40
       }
     ]
   },
 
   "tile_17": {
     "tileId": "17",
-    "name": "Full Bludgeon",
-    "fontSize": 18,
+    "name": "Completed Bludgeon (from scratch)",
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Abyssal_bludgeon_detail.png",
+        "heightInPx": 90,
+        "offsetTop": -20,
+        "offsetLeft": -25
       }
     ]
   },
@@ -401,14 +425,14 @@
   "tile_82": {
     "tileId": "82",
     "name": "Any Jar",
-    "fontSize": 18,
+    "fontSize": 24,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Jar_of_souls_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -18,
+        "offsetLeft": -2
       }
     ]
   },
@@ -416,14 +440,14 @@
   "tile_18": {
     "tileId": "18",
     "name": "Nightmare Unique (except tablet)",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/The_Nightmare.png?0128a",
+        "heightInPx": 120,
+        "offsetTop": -25,
+        "offsetLeft": -30
       }
     ]
   },
