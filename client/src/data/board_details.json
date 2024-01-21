@@ -455,14 +455,20 @@
   "tile_156": {
     "tileId": "156",
     "name": "Any Dust Mystic OR Broken Dragon Hasta",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/thumb/Mystic_robe_top_%28dusk%29_detail.png/1024px-Mystic_robe_top_%28dusk%29_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -20,
+        "offsetLeft": -40
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Broken_dragon_hasta_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -5,
+        "offsetLeft": 20
       }
     ]
   },
@@ -470,14 +476,20 @@
   "tile_29": {
     "tileId": "29",
     "name": "Hill Giants Club OR Bryophyta's Essence",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Hill_giant_club_detail.png",
+        "heightInPx": 55,
+        "offsetTop": -20,
+        "offsetLeft": 20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Bryophyta's_essence_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -5,
+        "offsetLeft": -20
       }
     ]
   },
@@ -489,10 +501,16 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Trident_of_the_seas_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -20,
+        "offsetLeft": 5
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Kraken_tentacle_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -20,
+        "offsetLeft": -30
       }
     ]
   },
