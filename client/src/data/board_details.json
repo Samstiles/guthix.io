@@ -394,7 +394,8 @@
 
   "tile_24": {
     "tileId": "24",
-    "name": "Any Sarachnis Unique (except egg sack)",
+    "name": "Any Sarachnis Unique",
+    "tooltip": "Giant egg sack does NOT count!",
     "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
@@ -439,7 +440,8 @@
 
   "tile_18": {
     "tileId": "18",
-    "name": "Nightmare Unique (except tablet)",
+    "name": "Nightmare Unique",
+    "tooltip": "Slepey tablet from PNM does NOT count!",
     "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
@@ -533,6 +535,7 @@
   "tile_28a": {
     "tileId": "28a",
     "name": "Any Garage Door Unique",
+    "tooltip": "Yes, this is a duplicate of #134. You must do them both separately.",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": [
@@ -547,7 +550,8 @@
 
   "tile_23": {
     "tileId": "23",
-    "name": "Any Cerb Unique (except teles)",
+    "name": "Any Cerb Unique",
+    "tooltip": "Key master teleports do NOT count!",
     "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
@@ -592,7 +596,8 @@
 
   "tile_66": {
     "tileId": "66",
-    "name": "Any KQ Unique (except head)",
+    "name": "Any KQ Unique",
+    "tooltip": "Kalphite head (tattered or regular) does NOT count!",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": [
@@ -653,6 +658,7 @@
   "tile_63": {
     "tileId": "63",
     "name": "Any GG Unique (except gmaul and dust)",
+    "tooltip": "No, granite maul doesn't count. Regular gargoyles drop it. Neither does the dust.",
     "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
@@ -779,6 +785,7 @@
   "tile_134": {
     "tileId": "134",
     "name": "Any Garage Door Unique (again)",
+    "tooltip": "Yes, this is a duplicate of #28a. You must do them both separately.",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": [
@@ -853,7 +860,8 @@
 
   "tile_85": {
     "tileId": "85",
-    "name": "Any KBD Unique (except heads)",
+    "name": "Any KBD Unique",
+    "tooltip": "Heads do NOT count!",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": [
@@ -868,7 +876,8 @@
 
   "tile_77": {
     "tileId": "77",
-    "name": "Any Zulrah Unique (except tele/scales)",
+    "name": "Any Zulrah Unique",
+    "tooltip": "Zul-Andra teleports and Zulrah's scales do NOT count!",
     "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
@@ -1028,6 +1037,7 @@
   "tile_262": {
     "tileId": "262",
     "name": "Any 2 *different* purples from a raid",
+    "tooltip": "Both purples most come from the SAME raid.",
     "fontSize": 14,
     "pointValueClass": "pink",
     "images": [

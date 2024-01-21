@@ -123,6 +123,13 @@ div.HexBoardTileParent.Completed {
   right: 0;
 }
 
+.hex-info-icon {
+  padding-left: 5px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+
 .hex-images {
   display: flex;
   align-items: center;
