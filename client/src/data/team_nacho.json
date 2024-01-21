@@ -60,7 +60,7 @@
     "tile_100a": false,
     "tile_101": false,
     "tile_107": false,
-    "tile_115a": false,
+    "tile_115a": true,
     "tile_116": true,
     "tile_118": false,
     "tile_119a": false,
