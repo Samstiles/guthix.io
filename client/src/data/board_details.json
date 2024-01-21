@@ -76,7 +76,14 @@
     "name": "Any Tempoross Unique",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/thumb/Tempoross.png/600px-Tempoross.png",
+        "heightInPx": 80,
+        "offsetTop": -15,
+        "offsetLeft": -30
+      }
+    ]
   },
 
   "tile_43a": {
@@ -84,15 +91,29 @@
     "name": "Fedora",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": -40
+      }
+    ]
   },
 
   "tile_155": {
     "tileId": "155",
-    "name": "Any TzHaar Piece",
+    "name": "Any TzHaar Piece (DROP!)",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/TzHaar-Xil_%28sword%29.png?43cb7",
+        "heightInPx": 80,
+        "offsetTop": -15,
+        "offsetLeft": -10
+      }
+    ]
   },
 
   "tile_48a": {
@@ -100,7 +121,14 @@
     "name": "Brine Sabre",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Brine_sabre_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": 5
+      }
+    ]
   },
 
   "tile_135a": {
@@ -108,7 +136,20 @@
     "name": "3x Long Bone OR 1x Curved Bone",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Curved_bone_detail.png",
+        "heightInPx": 50,
+        "offsetTop": -10,
+        "offsetLeft": -25
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Long_bone_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 25
+      }
+    ]
   },
 
   "tile_47a": {
@@ -116,15 +157,35 @@
     "name": "Full Dark Totem",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dark_totem_detail.png",
+        "heightInPx": 80,
+        "offsetTop": -10,
+        "offsetLeft": 5
+      }
+    ]
   },
 
   "tile_157a": {
     "tileId": "157a",
     "name": "300 Granite Dust OR 5 Ancient Shards",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Granite_dust_detail.png",
+        "heightInPx": 40,
+        "offsetTop": 10,
+        "offsetLeft": 20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Ancient_shard_detail.png",
+        "heightInPx": 60,
+        "offsetTop": 0,
+        "offsetLeft": -20
+      }
+    ]
   },
 
   "tile_46": {
@@ -132,7 +193,14 @@
     "name": "Seercull",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Seercull_detail.png",
+        "heightInPx": 80,
+        "offsetTop": -10,
+        "offsetLeft": -10
+      }
+    ]
   },
 
   "tile_39": {
@@ -140,15 +208,29 @@
     "name": "Granite Helm",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Granite_helm_detail.png",
+        "heightInPx": 90,
+        "offsetTop": -15,
+        "offsetLeft": -20
+      }
+    ]
   },
 
   "tile_38a": {
     "tileId": "38a",
     "name": "Zul-Andra Tele OR Key Master Tele OR Rev Cave Tele",
-    "fontSize": 18,
+    "fontSize": 13,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Zul-andra_teleport_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -10,
+        "offsetLeft": -20
+      }
+    ]
   },
 
   "tile_42b": {
@@ -156,7 +238,14 @@
     "name": "ALL metal boots including Dragon",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_147a": {
@@ -164,7 +253,14 @@
     "name": "25x Nihil Shard",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_44b": {
@@ -172,7 +268,14 @@
     "name": "Any 3 Different Heads",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_60": {
@@ -180,7 +283,14 @@
     "name": "Mossy Key, Giant Key, AND Full Dark Totem",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_46a": {
@@ -188,7 +298,14 @@
     "name": "Leaf Bladed Sword or Battleaxe",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_45": {
@@ -196,7 +313,14 @@
     "name": "Warped Sceptre",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_20a": {
@@ -204,7 +328,14 @@
     "name": "Holy Elixir or Spirit Shield",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_21": {
@@ -212,7 +343,14 @@
     "name": "All DKs Rings",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_16a": {
@@ -220,7 +358,14 @@
     "name": "Unsired",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_24": {
@@ -228,7 +373,14 @@
     "name": "Sarachnis Unique (except egg sack)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_17": {
@@ -236,7 +388,14 @@
     "name": "Full Bludgeon",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_82": {
@@ -244,7 +403,14 @@
     "name": "Any Jar",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_18": {
@@ -252,7 +418,14 @@
     "name": "Nightmare Unique (except tablet)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_156": {
@@ -260,7 +433,14 @@
     "name": "Any Dust Mystic OR Broken Dragon Hasta",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_29": {
@@ -268,7 +448,14 @@
     "name": "Hill Giants Club OR Bryophyta's Essence",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_32": {
@@ -276,7 +463,14 @@
     "name": "Trident or Tentacle",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_172": {
@@ -284,7 +478,14 @@
     "name": "Any TOA Purple",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_28a": {
@@ -292,7 +493,14 @@
     "name": "Any Garage Door Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_23": {
@@ -300,7 +508,14 @@
     "name": "Any Cerberus Unique (except teles)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_36": {
@@ -308,7 +523,14 @@
     "name": "Any Pet",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_30": {
@@ -316,7 +538,14 @@
     "name": "Abyssal Head",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_66": {
@@ -324,7 +553,14 @@
     "name": "Any KQ Unique (except head)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_25": {
@@ -332,7 +568,14 @@
     "name": "Any Skotizo Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_34": {
@@ -340,7 +583,14 @@
     "name": "Any Drop >30M",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_31": {
@@ -348,7 +598,14 @@
     "name": "Abyssal Dagger",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_63": {
@@ -356,7 +613,14 @@
     "name": "Any GG Unique (except gmaul and dust)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_61a": {
@@ -364,7 +628,14 @@
     "name": "Whip",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_118": {
@@ -372,7 +643,14 @@
     "name": "Blood Shard",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_116": {
@@ -380,7 +658,14 @@
     "name": "Enh Tele Seed",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_98a": {
@@ -388,7 +673,14 @@
     "name": "Any Ward Piece",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_91a": {
@@ -396,7 +688,14 @@
     "name": "Any Sara Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_119a": {
@@ -404,7 +703,14 @@
     "name": "3x Chewed Bones",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_132": {
@@ -412,7 +718,14 @@
     "name": "Dark Bow",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_134": {
@@ -420,7 +733,14 @@
     "name": "Any Garage Door Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_151a": {
@@ -428,7 +748,14 @@
     "name": "Any Medium Clue Boots",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_159": {
@@ -436,7 +763,14 @@
     "name": "Dragon Spear",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_97": {
@@ -444,7 +778,14 @@
     "name": "Any Thermy Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_115a": {
@@ -452,7 +793,14 @@
     "name": "Any Champion Scroll",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_85": {
@@ -460,7 +808,14 @@
     "name": "Any KBD Unique (except heads)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_77": {
@@ -468,7 +823,14 @@
     "name": "Any Zulrah Unique (except tele/scales)",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_75a": {
@@ -476,7 +838,14 @@
     "name": "Zammy Spear",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_100a": {
@@ -484,7 +853,14 @@
     "name": "d harpoon, d2h, d chainbody or d pick",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_92": {
@@ -492,7 +868,14 @@
     "name": "Bandos Tassets or Arma Chainskirt",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_6": {
@@ -500,7 +883,14 @@
     "name": "Crystal Tool Seed",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_76": {
@@ -508,7 +898,14 @@
     "name": "Any Hydra Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_94": {
@@ -516,7 +913,14 @@
     "name": "Any Hilt from GWD",
     "fontSize": 18,
     "pointValueClass": "yellow",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_263": {
@@ -524,7 +928,14 @@
     "name": "Any two *different* CoX Purples",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_57": {
@@ -532,7 +943,14 @@
     "name": "Any DT2 Axe Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_262": {
@@ -540,7 +958,14 @@
     "name": "Any 2 *different* purples from a raid",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_54": {
@@ -548,7 +973,14 @@
     "name": "Any Justi Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_160": {
@@ -556,7 +988,14 @@
     "name": "Any DT2 Vestige",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_53": {
@@ -564,7 +1003,14 @@
     "name": "Sigil, Pet or Jar from Cerb",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_71": {
@@ -572,7 +1018,14 @@
     "name": "Any Inquisitor Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_52": {
@@ -580,7 +1033,14 @@
     "name": "Any drop >50M",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_175": {
@@ -588,7 +1048,14 @@
     "name": "Any Masori Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_49": {
@@ -596,7 +1063,14 @@
     "name": "TBow, Shadow or Scythe",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_67": {
@@ -604,7 +1078,14 @@
     "name": "5 Venator Shards",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_51": {
@@ -612,7 +1093,14 @@
     "name": "Imbued Heart or Eternal Gem",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_101": {
@@ -620,7 +1108,14 @@
     "name": "Any Ancestral Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_133": {
@@ -628,7 +1123,14 @@
     "name": "Any 3 Virtus Pieces",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_56": {
@@ -636,7 +1138,14 @@
     "name": "Any Completed Godsword",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_50": {
@@ -644,7 +1153,14 @@
     "name": "Enh Weapon Seed OR Youngllef",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_55": {
@@ -652,7 +1168,14 @@
     "name": "Twisted Kit OR CoX Pet Dust",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_69": {
@@ -660,7 +1183,14 @@
     "name": "Dragon Metal Lump OR Dragon Metal Slice",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_90a": {
@@ -668,7 +1198,14 @@
     "name": "Any Two Different Cerb Crystals",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   },
 
   "tile_79": {
@@ -676,6 +1213,13 @@
     "name": "Any Nex Unique",
     "fontSize": 18,
     "pointValueClass": "pink",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 0
+      }
+    ]
   }
 }
