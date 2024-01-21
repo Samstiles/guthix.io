@@ -15,6 +15,7 @@ function calculateTeamScore(teamDetails: any) {
   for (const key of Object.keys(teamDetails.tiles)) {
     // @ts-ignore
     const tileDetails = boardData[key];
+    if (tileDetails === undefined) console.log("@@@", key);
 
     if (teamDetails.tiles[key] === false) continue;
 
