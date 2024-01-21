@@ -567,10 +567,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://thepoochexpress.com/wp-content/uploads/2016/09/cute-dog-transparent-background.png",
-        "heightInPx": 130,
-        "offsetTop": -30,
-        "offsetLeft": -50
+        "src": "https://i.imgur.com/qsl2CoY.png",
+        "heightInPx": 85,
+        "offsetTop": -15,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1028,14 +1028,14 @@
   "tile_262": {
     "tileId": "262",
     "name": "Any 2 *different* purples from a raid",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
+        "src": "https://oldschool.runescape.wiki/images/Magic_chest_built.gif",
+        "heightInPx": 80,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -22
       }
     ]
   },
@@ -1047,10 +1047,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Justiciar_armour_equipped_male.png",
         "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetTop": -22,
+        "offsetLeft": 7
       }
     ]
   },
@@ -1062,10 +1062,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "src": "https://i.imgur.com/RtaPkY2.png",
+        "heightInPx": 70,
+        "offsetTop": -10,
+        "offsetLeft": -28
       }
     ]
   },
@@ -1077,7 +1077,7 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Cerberus.png?47f4c",
         "heightInPx": 100,
         "offsetTop": -20,
         "offsetLeft": -20
