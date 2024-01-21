@@ -47,6 +47,14 @@ const getCssClassForPlacement = (placement: number) => {
   return cssClassesForPlacement[placement];
 };
 
+const loadPageAgainWithLeaderSelected = (leaderName: string) => {
+  let currentUrl = window.location.href;
+  let baseUrl = currentUrl.split("?")[0];
+
+  // Set the new URL
+  window.location.href = baseUrl + "?team=" + leaderName;
+};
+
 const teamEntry = (
   teamDetails: any,
   cssClass: string,
@@ -58,15 +66,14 @@ const teamEntry = (
     <div
       key={Math.random() * 1000}
       className={`Team animate__animated ${cssClass}`}
+      onClick={() => loadPageAgainWithLeaderSelected(teamDetails.leaderName)}
     >
-      <h2
-        className={`chrome TeamPlacement ${getCssClassForPlacement(placement)}`}
-      >
-        {getPlacementStringFromPlacementNumber(placement)}
+      <h2 className={`chrome TeamPlacement ${getCssClassForPlacement(1)}`}>
+        {getPlacementStringFromPlacementNumber(1)}
       </h2>
       <h4 className="TeamName">{teamName}</h4>
       <h3 className="TeamScore">
-        {score} points
+        {0} points
         {maximumPoints === undefined ? `` : `/ ${maximumPoints}`}
       </h3>
     </div>

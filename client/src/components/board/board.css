@@ -51,6 +51,27 @@ div.HexBoardTileParent {
     background-color: #f66;
 }
 
+@keyframes rainbow_animation {
+
+    0%,
+    100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
+
+.ChooseTeamPrompt {
+    background: linear-gradient(to right, #6666ff, #0099ff, #00ff00, #ff3399, #6666ff);
+    color: transparent;
+    animation: rainbow_animation 6s ease-in-out infinite;
+    margin: 50px 0 0 0;
+    color: white;
+    background-size: 400% 100%;
+}
+
 .hex-number {
   color: #000;
   text-shadow: 0 0 5px #fff;

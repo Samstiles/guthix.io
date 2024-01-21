@@ -78,5 +78,12 @@ export default function Board() {
     manyHexes.push(hexBoardTile(allTiles[i], i));
   }
 
-  return <div className="Board">{manyHexes}</div>;
+  return (
+    <>
+      <h1 className="ChooseTeamPrompt">
+        Select A Team Above To View Their Progress!
+      </h1>
+      <div className="Board">{manyHexes}</div>
+    </>
+  );
 }
