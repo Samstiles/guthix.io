@@ -1077,7 +1077,7 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Cerberus.png?47f4c",
+        "src": "https://oldschool.runescape.wiki/images/Cerberus.png",
         "heightInPx": 100,
         "offsetTop": -20,
         "offsetLeft": -20
@@ -1092,10 +1092,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
+        "src": "https://oldschool.runescape.wiki/images/Inquisitor%27s_armour_equipped.png",
+        "heightInPx": 120,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": 5
       }
     ]
   },
@@ -1107,10 +1107,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/thumb/Coins_detail.png/240px-Coins_detail.png?404bc",
         "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetTop": -22,
+        "offsetLeft": -25
       }
     ]
   },
@@ -1122,10 +1122,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
+        "src": "https://oldschool.runescape.wiki/images/Masori_armour_equipped_female.png?d7d2c",
+        "heightInPx": 120,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": 5
       }
     ]
   },
@@ -1137,10 +1137,22 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "src": "https://oldschool.runescape.wiki/images/Twisted_bow_detail.png",
+        "heightInPx": 60,
+        "offsetTop": 0,
+        "offsetLeft": 20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Scythe_of_vitur_detail.png",
+        "heightInPx": 65,
+        "offsetTop": 0,
+        "offsetLeft": -40
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Tumeken%27s_shadow_%28uncharged%29_detail.png",
+        "heightInPx": 70,
+        "offsetTop": -30,
+        "offsetLeft": 0
       }
     ]
   },
@@ -1152,9 +1164,9 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Venator_shard_detail.png",
         "heightInPx": 100,
-        "offsetTop": -20,
+        "offsetTop": -25,
         "offsetLeft": -20
       }
     ]
@@ -1167,10 +1179,16 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "src": "https://oldschool.runescape.wiki/images/Imbued_heart_detail.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Eternal_gem_detail.png",
+        "heightInPx": 75,
+        "offsetTop": -25,
+        "offsetLeft": -30
       }
     ]
   },
@@ -1182,10 +1200,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "src": "https://oldschool.runescape.wiki/images/Ancestral_robes_equipped_male.png",
+        "heightInPx": 120,
+        "offsetTop": -35,
+        "offsetLeft": 7
       }
     ]
   },
@@ -1197,10 +1215,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "src": "https://oldschool.runescape.wiki/images/Virtus_robes_equipped_male.png",
+        "heightInPx": 120,
+        "offsetTop": -35,
+        "offsetLeft": 3
       }
     ]
   },
@@ -1212,10 +1230,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Bandos_godsword.png",
         "heightInPx": 100,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -25
       }
     ]
   },
@@ -1223,14 +1241,20 @@
   "tile_50": {
     "tileId": "50",
     "name": "Enh Weapon Seed OR Youngllef",
-    "fontSize": 18,
+    "fontSize": 16,
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
+        "src": "https://oldschool.runescape.wiki/images/Enhanced_crystal_weapon_seed_detail.png",
+        "heightInPx": 50,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -40
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Youngllef.png",
+        "heightInPx": 50,
+        "offsetTop": 5,
+        "offsetLeft": 25
       }
     ]
   },
@@ -1242,10 +1266,16 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
+        "src": "https://oldschool.runescape.wiki/images/Twisted_ancestral_colour_kit_detail.png",
+        "heightInPx": 50,
         "offsetTop": -20,
         "offsetLeft": -20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Metamorphic_dust.png",
+        "heightInPx": 50,
+        "offsetTop": 0,
+        "offsetLeft": 20
       }
     ]
   },
@@ -1253,14 +1283,20 @@
   "tile_69": {
     "tileId": "69",
     "name": "Dragon Metal Lump OR Dragon Metal Slice",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "src": "https://oldschool.runescape.wiki/images/Dragon_metal_lump_detail.png",
+        "heightInPx": 50,
+        "offsetTop": -15,
+        "offsetLeft": -35
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dragon_metal_slice.png",
+        "heightInPx": 50,
+        "offsetTop": -7,
+        "offsetLeft": 20
       }
     ]
   },
@@ -1272,7 +1308,7 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Cerberus.png",
         "heightInPx": 100,
         "offsetTop": -20,
         "offsetLeft": -20
@@ -1287,8 +1323,8 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
-        "heightInPx": 100,
+        "src": "https://oldschool.runescape.wiki/images/Nex.png",
+        "heightInPx": 120,
         "offsetTop": -20,
         "offsetLeft": -20
       }
