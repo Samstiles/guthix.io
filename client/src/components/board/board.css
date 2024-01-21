@@ -5,7 +5,36 @@
   width: 1500px;
   height: 1000px;
   /* border: 1px solid red; */
-  display: inline-block;
+  /* width: auto; */
+  display: flex;
+  transform-origin: top center;
+
+}
+
+@media screen and (max-width: 1525px) {
+    .Board {
+        transform: scale(0.85);
+    }
+}@media screen and (max-width: 1270px) {
+    .Board {
+        transform: scale(0.65);
+    }
+}@media screen and (max-width: 985px) {
+    .Board {
+        transform: scale(0.5);
+    }
+}@media screen and (max-width: 750px) {
+    .Board {
+        transform: scale(0.4);
+    }
+}@media screen and (max-width: 600px) {
+    .Board {
+        transform: scale(0.25);
+    }
+}@media screen and (max-width: 378px) {
+    .Board {
+        transform: scale(0.20);
+    }
 }
 
 .HexBoardTile {
@@ -78,6 +107,7 @@ div.HexBoardTileParent.Completed {
     color: transparent;
     animation: rainbow_animation 6s ease-in-out infinite;
     margin: 50px 0 0 0;
+    padding: 0 20px;
     color: white;
     background-size: 400% 100%;
 }
