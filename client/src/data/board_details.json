@@ -537,25 +537,25 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/General_Graardor.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -10
       }
     ]
   },
 
   "tile_23": {
     "tileId": "23",
-    "name": "Any Cerberus Unique (except teles)",
-    "fontSize": 18,
+    "name": "Any Cerb Unique (except teles)",
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Cerberus.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -563,14 +563,14 @@
   "tile_36": {
     "tileId": "36",
     "name": "Any Pet",
-    "fontSize": 18,
+    "fontSize": 26,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://thepoochexpress.com/wp-content/uploads/2016/09/cute-dog-transparent-background.png",
+        "heightInPx": 130,
+        "offsetTop": -30,
+        "offsetLeft": -50
       }
     ]
   },
@@ -582,10 +582,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Abyssal_head_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -597,10 +597,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Kalphite_Queen.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -30
       }
     ]
   },
@@ -608,14 +608,14 @@
   "tile_25": {
     "tileId": "25",
     "name": "Any Skotizo Unique",
-    "fontSize": 18,
+    "fontSize": 22,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Skotizo.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -10
       }
     ]
   },
@@ -627,10 +627,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/thumb/Coins_detail.png/240px-Coins_detail.png?404bc",
+        "heightInPx": 75,
+        "offsetTop": -10,
+        "offsetLeft": -15
       }
     ]
   },
@@ -642,10 +642,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Abyssal_dagger_detail.png",
+        "heightInPx": 75,
+        "offsetTop": -5,
+        "offsetLeft": -5
       }
     ]
   },
@@ -653,14 +653,14 @@
   "tile_63": {
     "tileId": "63",
     "name": "Any GG Unique (except gmaul and dust)",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Dusk_%282nd_form%29.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -15
       }
     ]
   },
