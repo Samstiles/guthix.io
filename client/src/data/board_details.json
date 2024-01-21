@@ -672,10 +672,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Abyssal_whip_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -15
       }
     ]
   },
@@ -687,10 +687,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -702,10 +702,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Enhanced_crystal_teleport_seed_detail.png",
+        "heightInPx": 80,
+        "offsetTop": -10,
+        "offsetLeft": -20
       }
     ]
   },
@@ -717,10 +717,16 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Odium_ward_detail.png?49661",
         "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "offsetTop": -20,
+        "offsetLeft": -20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Malediction_ward_detail.png?49661",
+        "heightInPx": 50,
+        "offsetTop": 20,
+        "offsetLeft": 20
       }
     ]
   },
@@ -732,9 +738,9 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
+        "src": "https://oldschool.runescape.wiki/images/Commander_Zilyana.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
         "offsetLeft": 0
       }
     ]
@@ -747,10 +753,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Chewed_bones_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -30
       }
     ]
   },
@@ -762,25 +768,25 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Dark_bow_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
 
   "tile_134": {
     "tileId": "134",
-    "name": "Any Garage Door Unique",
+    "name": "Any Garage Door Unique (again)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/General_Graardor.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -10
       }
     ]
   },
@@ -788,14 +794,14 @@
   "tile_151a": {
     "tileId": "151a",
     "name": "Any Medium Clue Boots",
-    "fontSize": 18,
+    "fontSize": 22,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Reward_casket_%28medium%29_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -30
       }
     ]
   },
@@ -807,9 +813,9 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
+        "src": "https://oldschool.runescape.wiki/images/Dragon_spear_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
         "offsetLeft": 0
       }
     ]
@@ -818,14 +824,14 @@
   "tile_97": {
     "tileId": "97",
     "name": "Any Thermy Unique",
-    "fontSize": 18,
+    "fontSize": 20,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Thermonuclear_smoke_devil.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -10
       }
     ]
   },
@@ -837,10 +843,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Goblin_champion_scroll_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -852,10 +858,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/King_Black_Dragon.png",
+        "heightInPx": 80,
+        "offsetTop": -10,
+        "offsetLeft": -30
       }
     ]
   },
@@ -863,14 +869,14 @@
   "tile_77": {
     "tileId": "77",
     "name": "Any Zulrah Unique (except tele/scales)",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Zulrah_%28serpentine%29.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -882,10 +888,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Zamorakian_spear_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -893,14 +899,32 @@
   "tile_100a": {
     "tileId": "100a",
     "name": "d harpoon, d2h, d chainbody or d pick",
-    "fontSize": 18,
+    "fontSize": 14,
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Dragon_spear.png",
+        "heightInPx": 40,
+        "offsetTop": -20,
+        "offsetLeft": -20
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dragon_2h_sword.png",
+        "heightInPx": 40,
+        "offsetTop": 20,
+        "offsetLeft": 30
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dragon_chainbody.png",
+        "heightInPx": 40,
+        "offsetTop": -20,
+        "offsetLeft": 25
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dragon_pickaxe.png",
+        "heightInPx": 40,
+        "offsetTop": 20,
+        "offsetLeft": -5
       }
     ]
   },
@@ -912,10 +936,16 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Bandos_tassets.png",
+        "heightInPx": 70,
+        "offsetTop": -15,
+        "offsetLeft": 25
+      },
+      {
+        "src": "https://oldschool.runescape.wiki/images/Armadyl_chainskirt.png",
+        "heightInPx": 70,
+        "offsetTop": -15,
+        "offsetLeft": -25
       }
     ]
   },
@@ -927,10 +957,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -942,10 +972,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -957,10 +987,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -972,10 +1002,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -987,10 +1017,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1002,10 +1032,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1017,10 +1047,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1032,10 +1062,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1047,10 +1077,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1062,10 +1092,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1077,10 +1107,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1092,10 +1122,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1107,10 +1137,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1122,10 +1152,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1137,10 +1167,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1152,10 +1182,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1167,10 +1197,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1182,10 +1212,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1197,10 +1227,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1212,10 +1242,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1227,10 +1257,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1242,10 +1272,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },
@@ -1257,10 +1287,10 @@
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   }
