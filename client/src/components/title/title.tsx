@@ -16,7 +16,7 @@ const countdownFormat = ({ days, hours, minutes, seconds, completed }) => {
     // Render a countdown
     return (
       <span>
-        Starts In: {padZeroAtStart(days)}d:{padZeroAtStart(hours)}h:
+        Time Remaining: {padZeroAtStart(days)}d:{padZeroAtStart(hours)}h:
         {padZeroAtStart(minutes)}m:{padZeroAtStart(seconds)}s
       </span>
     );
