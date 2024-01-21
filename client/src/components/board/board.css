@@ -45,8 +45,10 @@ div.HexBoardTileParent {
   background-color: #6c6;
 }
 .HexBoardTile.yellow {
+    background-color: #fc6;
 }
 .HexBoardTile.pink {
+    background-color: #f66;
 }
 
 .hex-number {

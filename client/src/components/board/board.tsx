@@ -52,7 +52,10 @@ const hexBoardTile = (hexDetails: HexDetails, index: number) => {
         left: `${col * tileSize}px`,
       }}
     >
-      <div className={`HexBoardTile ${"green"}`} key={Math.random() * 10000}>
+      <div
+        className={`HexBoardTile ${hexDetails.pointValueClass}`}
+        key={Math.random() * 10000}
+      >
         <div className="hex-number">#{hexDetails.tileId}</div>
         <div className="hex-images">{allImages}</div>
       </div>
@@ -75,13 +78,5 @@ export default function Board() {
     manyHexes.push(hexBoardTile(allTiles[i], i));
   }
 
-  return (
-    <div className="Board">
-      {manyHexes}
-
-      <h1 style={{ position: "relative", top: "500px" }}>
-        Still a work in progress, finishing this later
-      </h1>
-    </div>
-  );
+  return <div className="Board">{manyHexes}</div>;
 }
