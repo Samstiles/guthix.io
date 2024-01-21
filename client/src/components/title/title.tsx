@@ -2,7 +2,7 @@ import "./title.css";
 import logo from "./guthix.png";
 import Countdown from "react-countdown";
 
-const endDate = new Date("2024-01-21T17:00:00.000Z");
+const endDate = new Date("2024-02-11T17:00:00.000Z");
 
 const padZeroAtStart = (number: number) => {
   return number.toString().padStart(2, "0");

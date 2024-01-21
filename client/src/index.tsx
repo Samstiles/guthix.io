@@ -10,11 +10,7 @@ import Board from "./components/board/board";
 // @ts-ignore
 import KonamiCode from "konami-code-js";
 
-console.log("KonamiCode", KonamiCode);
-
 new KonamiCode(function () {
-  console.log("Konami code activated!");
-
   const nachoElement = document.getElementById("nacho") as HTMLElement;
 
   nachoElement.style.display = "flex";
