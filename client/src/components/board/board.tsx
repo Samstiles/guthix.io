@@ -42,7 +42,7 @@ const hexBoardTile = (
   const allImages = hexDetails.images.map((imageDetails) => {
     return (
       <img
-        key={`gameboardimage-${index}-${Math.floor(Math.random() * 100)}`}
+        key={`gameboardimage-${index}-${Math.floor(Math.random() * 10000)}`}
         src={imageDetails.src}
         alt="hex image"
         className="hex-image"

@@ -522,10 +522,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Fedora_detail.png",
-        "heightInPx": 50,
-        "offsetTop": 0,
-        "offsetLeft": 0
+        "src": "https://oldschool.runescape.wiki/images/Tumeken%27s_Warden_%28level-544%29.png",
+        "heightInPx": 100,
+        "offsetTop": -20,
+        "offsetLeft": -20
       }
     ]
   },

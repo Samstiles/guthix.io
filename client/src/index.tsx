@@ -7,6 +7,23 @@ import Title from "./components/title/title";
 import Header from "./components/header/header";
 import Board from "./components/board/board";
 
+// @ts-ignore
+import KonamiCode from "konami-code-js";
+
+console.log("KonamiCode", KonamiCode);
+
+new KonamiCode(function () {
+  console.log("Konami code activated!");
+
+  const nachoElement = document.getElementById("nacho") as HTMLElement;
+
+  nachoElement.style.display = "flex";
+
+  setTimeout(() => {
+    nachoElement.style.display = "none";
+  }, 10000);
+});
+
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
