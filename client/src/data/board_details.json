@@ -137,7 +137,7 @@
 
   "tile_39": {
     "tileId": "39",
-    "name": "",
+    "name": "Granite Helm",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -145,7 +145,7 @@
 
   "tile_38a": {
     "tileId": "38a",
-    "name": "",
+    "name": "Zul-Andra Tele OR Key Master Tele OR Rev Cave Tele",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -153,7 +153,7 @@
 
   "tile_42b": {
     "tileId": "42b",
-    "name": "",
+    "name": "ALL metal boots including Dragon",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -161,7 +161,7 @@
 
   "tile_147a": {
     "tileId": "147a",
-    "name": "",
+    "name": "25x Nihil Shard",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -169,7 +169,7 @@
 
   "tile_44b": {
     "tileId": "44b",
-    "name": "",
+    "name": "Any 3 Different Heads",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -177,7 +177,7 @@
 
   "tile_60": {
     "tileId": "60",
-    "name": "",
+    "name": "Mossy Key, Giant Key, AND Full Dark Totem",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -185,7 +185,7 @@
 
   "tile_46a": {
     "tileId": "46a",
-    "name": "",
+    "name": "Leaf Bladed Sword or Battleaxe",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -193,7 +193,7 @@
 
   "tile_45": {
     "tileId": "45",
-    "name": "",
+    "name": "Warped Sceptre",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -201,7 +201,7 @@
 
   "tile_20a": {
     "tileId": "20a",
-    "name": "",
+    "name": "Holy Elixir or Spirit Shield",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -209,7 +209,7 @@
 
   "tile_21": {
     "tileId": "21",
-    "name": "",
+    "name": "All DKs Rings",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -217,7 +217,7 @@
 
   "tile_16a": {
     "tileId": "16a",
-    "name": "",
+    "name": "Unsired",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -225,7 +225,7 @@
 
   "tile_24": {
     "tileId": "24",
-    "name": "",
+    "name": "Sarachnis Unique (except egg sack)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -233,7 +233,7 @@
 
   "tile_17": {
     "tileId": "17",
-    "name": "",
+    "name": "Full Bludgeon",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -241,7 +241,7 @@
 
   "tile_82": {
     "tileId": "82",
-    "name": "",
+    "name": "Any Jar",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -249,7 +249,7 @@
 
   "tile_18": {
     "tileId": "18",
-    "name": "",
+    "name": "Nightmare Unique (except tablet)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -257,7 +257,7 @@
 
   "tile_156": {
     "tileId": "156",
-    "name": "",
+    "name": "Any Dust Mystic OR Broken Dragon Hasta",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -265,7 +265,7 @@
 
   "tile_29": {
     "tileId": "29",
-    "name": "",
+    "name": "Hill Giants Club OR Bryophyta's Essence",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -273,7 +273,7 @@
 
   "tile_32": {
     "tileId": "32",
-    "name": "",
+    "name": "Trident or Tentacle",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -281,7 +281,7 @@
 
   "tile_172": {
     "tileId": "172",
-    "name": "",
+    "name": "Any TOA Purple",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -289,7 +289,7 @@
 
   "tile_28a": {
     "tileId": "28a",
-    "name": "",
+    "name": "Any Garage Door Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -297,7 +297,7 @@
 
   "tile_23": {
     "tileId": "23",
-    "name": "",
+    "name": "Any Cerberus Unique (except teles)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -305,7 +305,7 @@
 
   "tile_36": {
     "tileId": "36",
-    "name": "",
+    "name": "Any Pet",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -313,7 +313,7 @@
 
   "tile_30": {
     "tileId": "30",
-    "name": "",
+    "name": "Abyssal Head",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -321,7 +321,7 @@
 
   "tile_66": {
     "tileId": "66",
-    "name": "",
+    "name": "Any KQ Unique (except head)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -329,7 +329,7 @@
 
   "tile_25": {
     "tileId": "25",
-    "name": "",
+    "name": "Any Skotizo Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -337,7 +337,7 @@
 
   "tile_34": {
     "tileId": "34",
-    "name": "",
+    "name": "Any Drop >30M",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -345,7 +345,7 @@
 
   "tile_31": {
     "tileId": "31",
-    "name": "",
+    "name": "Abyssal Dagger",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -353,7 +353,7 @@
 
   "tile_63": {
     "tileId": "63",
-    "name": "",
+    "name": "Any GG Unique (except gmaul and dust)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -361,7 +361,7 @@
 
   "tile_61a": {
     "tileId": "61a",
-    "name": "",
+    "name": "Whip",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -369,7 +369,7 @@
 
   "tile_118": {
     "tileId": "118",
-    "name": "",
+    "name": "Blood Shard",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -377,7 +377,7 @@
 
   "tile_116": {
     "tileId": "116",
-    "name": "",
+    "name": "Enh Tele Seed",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -385,7 +385,7 @@
 
   "tile_98a": {
     "tileId": "98a",
-    "name": "",
+    "name": "Any Ward Piece",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -393,7 +393,7 @@
 
   "tile_91a": {
     "tileId": "91a",
-    "name": "",
+    "name": "Any Sara Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -401,7 +401,7 @@
 
   "tile_119a": {
     "tileId": "119a",
-    "name": "",
+    "name": "3x Chewed Bones",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -409,7 +409,7 @@
 
   "tile_132": {
     "tileId": "132",
-    "name": "",
+    "name": "Dark Bow",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -417,7 +417,7 @@
 
   "tile_134": {
     "tileId": "134",
-    "name": "",
+    "name": "Any Garage Door Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -425,7 +425,7 @@
 
   "tile_151a": {
     "tileId": "151a",
-    "name": "",
+    "name": "Any Medium Clue Boots",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -433,7 +433,7 @@
 
   "tile_159": {
     "tileId": "159",
-    "name": "",
+    "name": "Dragon Spear",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -441,7 +441,7 @@
 
   "tile_97": {
     "tileId": "97",
-    "name": "",
+    "name": "Any Thermy Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -449,7 +449,7 @@
 
   "tile_115a": {
     "tileId": "115a",
-    "name": "",
+    "name": "Any Champion Scroll",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -457,7 +457,7 @@
 
   "tile_85": {
     "tileId": "85",
-    "name": "",
+    "name": "Any KBD Unique (except heads)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -465,7 +465,7 @@
 
   "tile_77": {
     "tileId": "77",
-    "name": "",
+    "name": "Any Zulrah Unique (except tele/scales)",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -473,7 +473,7 @@
 
   "tile_75a": {
     "tileId": "75a",
-    "name": "",
+    "name": "Zammy Spear",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -481,7 +481,7 @@
 
   "tile_100a": {
     "tileId": "100a",
-    "name": "",
+    "name": "d harpoon, d2h, d chainbody or d pick",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -489,7 +489,7 @@
 
   "tile_92": {
     "tileId": "92",
-    "name": "",
+    "name": "Bandos Tassets or Arma Chainskirt",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -497,7 +497,7 @@
 
   "tile_6": {
     "tileId": "6",
-    "name": "",
+    "name": "Crystal Tool Seed",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -505,7 +505,7 @@
 
   "tile_76": {
     "tileId": "76",
-    "name": "",
+    "name": "Any Hydra Unique",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -513,7 +513,7 @@
 
   "tile_94": {
     "tileId": "94",
-    "name": "",
+    "name": "Any Hilt from GWD",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": []
@@ -521,7 +521,7 @@
 
   "tile_263": {
     "tileId": "263",
-    "name": "",
+    "name": "Any two *different* CoX Purples",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -529,7 +529,7 @@
 
   "tile_57": {
     "tileId": "57",
-    "name": "",
+    "name": "Any DT2 Axe Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -537,7 +537,7 @@
 
   "tile_262": {
     "tileId": "262",
-    "name": "",
+    "name": "Any 2 *different* purples from a raid",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -545,7 +545,7 @@
 
   "tile_54": {
     "tileId": "54",
-    "name": "",
+    "name": "Any Justi Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -553,7 +553,7 @@
 
   "tile_160": {
     "tileId": "160",
-    "name": "",
+    "name": "Any DT2 Vestige",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -561,7 +561,7 @@
 
   "tile_53": {
     "tileId": "53",
-    "name": "",
+    "name": "Sigil, Pet or Jar from Cerb",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -569,7 +569,7 @@
 
   "tile_71": {
     "tileId": "71",
-    "name": "",
+    "name": "Any Inquisitor Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -577,7 +577,7 @@
 
   "tile_52": {
     "tileId": "52",
-    "name": "",
+    "name": "Any drop >50M",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -585,7 +585,7 @@
 
   "tile_175": {
     "tileId": "175",
-    "name": "",
+    "name": "Any Masori Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -593,7 +593,7 @@
 
   "tile_49": {
     "tileId": "49",
-    "name": "",
+    "name": "TBow, Shadow or Scythe",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -601,7 +601,7 @@
 
   "tile_67": {
     "tileId": "67",
-    "name": "",
+    "name": "5 Venator Shards",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -609,7 +609,7 @@
 
   "tile_51": {
     "tileId": "51",
-    "name": "",
+    "name": "Imbued Heart or Eternal Gem",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -617,7 +617,7 @@
 
   "tile_101": {
     "tileId": "101",
-    "name": "",
+    "name": "Any Ancestral Piece",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -625,7 +625,7 @@
 
   "tile_133": {
     "tileId": "133",
-    "name": "",
+    "name": "Any 3 Virtus Pieces",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -633,7 +633,7 @@
 
   "tile_56": {
     "tileId": "56",
-    "name": "",
+    "name": "Any Completed Godsword",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -641,7 +641,7 @@
 
   "tile_50": {
     "tileId": "50",
-    "name": "",
+    "name": "Enh Weapon Seed OR Youngllef",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -649,7 +649,7 @@
 
   "tile_55": {
     "tileId": "55",
-    "name": "",
+    "name": "Twisted Kit OR CoX Pet Dust",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -657,7 +657,7 @@
 
   "tile_69": {
     "tileId": "69",
-    "name": "",
+    "name": "Dragon Metal Lump OR Dragon Metal Slice",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -665,7 +665,7 @@
 
   "tile_90a": {
     "tileId": "90a",
-    "name": "",
+    "name": "Any Two Different Cerb Crystals",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
@@ -673,7 +673,7 @@
 
   "tile_79": {
     "tileId": "79",
-    "name": "",
+    "name": "Any Nex Unique",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": []
