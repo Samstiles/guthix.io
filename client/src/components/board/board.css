@@ -41,6 +41,10 @@ div.HexBoardTileParent {
   transform: scale(1.1);
 }
 
+.hex-image {
+    z-index: 999;
+}
+
 .HexBoardTile.green {
   background-color: #6c6;
 }

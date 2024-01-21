@@ -5,11 +5,29 @@ import dedionDetails from "../../data/team_dedion.json";
 import kj2Details from "../../data/team_kj2.json";
 import nachoDetails from "../../data/team_nacho.json";
 import tengeepeeDetails from "../../data/team_tengeepee.json";
+import boardData from "../../data/board_details.json";
 
-const maximumPoints = undefined;
+const maximumPoints = 900;
 
 function calculateTeamScore(teamDetails: any) {
-  return Math.floor(Math.random() * 1000);
+  let score = 0;
+
+  for (const key of Object.keys(teamDetails.tiles)) {
+    // @ts-ignore
+    const tileDetails = boardData[key];
+
+    if (teamDetails.tiles[key] === false) continue;
+
+    if (tileDetails.pointValueClass === "green") {
+      score += 5;
+    } else if (tileDetails.pointValueClass === "yellow") {
+      score += 10;
+    } else if (tileDetails.pointValueClass === "pink") {
+      score += 20;
+    }
+  }
+
+  return score;
 }
 
 const getPlacementStringFromPlacementNumber = (placement: number) => {
@@ -64,17 +82,19 @@ const teamEntry = (
   const teamName = `Team ${teamDetails.leaderName}`; /* @ts-ignore */
   return (
     <div
-      key={Math.random() * 1000}
+      key={`team-${teamDetails.leaderName}`}
       className={`Team animate__animated ${cssClass}`}
       onClick={() => loadPageAgainWithLeaderSelected(teamDetails.leaderName)}
     >
-      <h2 className={`chrome TeamPlacement ${getCssClassForPlacement(1)}`}>
-        {getPlacementStringFromPlacementNumber(1)}
+      <h2
+        className={`chrome TeamPlacement ${getCssClassForPlacement(placement)}`}
+      >
+        {getPlacementStringFromPlacementNumber(placement)}
       </h2>
       <h4 className="TeamName">{teamName}</h4>
       <h3 className="TeamScore">
-        {0} points
-        {maximumPoints === undefined ? `` : `/ ${maximumPoints}`}
+        {score}
+        {maximumPoints === undefined ? `` : ` / ${maximumPoints} points`}
       </h3>
     </div>
   );

@@ -43,23 +43,37 @@
 
   "tile_107": {
     "tileId": "107",
-    "name": "",
+    "name": "Full Mystic (DARK)",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Mystic_robe_top_(dark)_detail.png",
+        "heightInPx": 60,
+        "offsetTop": -10,
+        "offsetLeft": -5
+      }
+    ]
   },
 
   "41a": {
     "tileId": "41a",
-    "name": "",
+    "name": "Dragon Defender",
     "fontSize": 18,
     "pointValueClass": "green",
-    "images": []
+    "images": [
+      {
+        "src": "https://oldschool.runescape.wiki/images/Dragon_defender_detail.png",
+        "heightInPx": 80,
+        "offsetTop": -15,
+        "offsetLeft": -10
+      }
+    ]
   },
 
   "tile_13": {
     "tileId": "13",
-    "name": "",
+    "name": "Any Tempoross Unique",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -67,7 +81,7 @@
 
   "tile_43a": {
     "tileId": "43a",
-    "name": "",
+    "name": "Fedora",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -75,7 +89,7 @@
 
   "tile_155": {
     "tileId": "155",
-    "name": "",
+    "name": "Any TzHaar Piece",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -83,7 +97,7 @@
 
   "tile_48a": {
     "tileId": "48a",
-    "name": "",
+    "name": "Brine Sabre",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -91,7 +105,7 @@
 
   "tile_135a": {
     "tileId": "135a",
-    "name": "",
+    "name": "3x Long Bone OR 1x Curved Bone",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -99,15 +113,7 @@
 
   "tile_47a": {
     "tileId": "47a",
-    "name": "",
-    "fontSize": 18,
-    "pointValueClass": "green",
-    "images": []
-  },
-
-  "tile_107": {
-    "tileId": "107",
-    "name": "",
+    "name": "Full Dark Totem",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -115,7 +121,7 @@
 
   "tile_157a": {
     "tileId": "157a",
-    "name": "",
+    "name": "300 Granite Dust OR 5 Ancient Shards",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
@@ -123,7 +129,7 @@
 
   "tile_46": {
     "tileId": "46",
-    "name": "",
+    "name": "Seercull",
     "fontSize": 18,
     "pointValueClass": "green",
     "images": []
