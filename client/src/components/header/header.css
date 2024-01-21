@@ -32,6 +32,13 @@ h3 {
     animation: transform 1500ms ease;
     transform: scale(1.1);
   }
+
+  &.SelectedTeam {
+    background-color: #687287;
+    cursor: pointer;
+    animation: transform 1500ms ease;
+    transform: scale(1.1);
+  }
 }
 
 .TeamPlacement {

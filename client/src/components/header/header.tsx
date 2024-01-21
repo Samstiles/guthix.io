@@ -80,11 +80,16 @@ const teamEntry = (
   score: number,
   placement: number
 ) => {
+  const thisTeamIsSelected = window.location.href.includes(
+    "team=" + teamDetails.leaderName
+  );
   const teamName = `Team ${teamDetails.leaderName}`; /* @ts-ignore */
   return (
     <div
       key={`team-${teamDetails.leaderName}`}
-      className={`Team animate__animated ${cssClass}`}
+      className={`Team animate__animated ${cssClass} ${
+        thisTeamIsSelected ? "SelectedTeam" : ""
+      }`}
       onClick={() => loadPageAgainWithLeaderSelected(teamDetails.leaderName)}
     >
       <h2
