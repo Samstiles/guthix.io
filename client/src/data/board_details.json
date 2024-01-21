@@ -957,10 +957,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Crystal_tool_seed_detail.png",
         "heightInPx": 100,
-        "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetTop": -25,
+        "offsetLeft": 0
       }
     ]
   },
@@ -972,7 +972,7 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Alchemical_Hydra_%28serpentine%29.png?925dd",
         "heightInPx": 100,
         "offsetTop": -20,
         "offsetLeft": -20
@@ -987,10 +987,10 @@
     "pointValueClass": "yellow",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Blood_shard_detail.png",
+        "src": "https://oldschool.runescape.wiki/images/Bandos_hilt_detail.png",
         "heightInPx": 100,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -10
       }
     ]
   },
