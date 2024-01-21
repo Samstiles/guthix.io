@@ -59,7 +59,7 @@ const hexBoardTile = (
     <div
       className={`HexBoardTileParent ${
         tileIsCompleted ? "Completed" : "Incomplete"
-      }}`}
+      }`}
       key={`boardtile-${index}`}
       style={{
         position: "absolute",

@@ -34,6 +34,12 @@ div.HexBoardTileParent {
   filter: brightness(1);
 }
 
+div.HexBoardTileParent.Completed {
+    -webkit-filter: brightness(0.3);
+    filter: brightness(0.3);
+    opacity: 0.5;
+}
+
 .HexBoardTileParent:hover .HexBoardTile {
   -webkit-filter: brightness(1.2);
   filter: brightness(1.2);

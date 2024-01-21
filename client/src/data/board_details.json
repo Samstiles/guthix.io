@@ -1072,15 +1072,15 @@
 
   "tile_53": {
     "tileId": "53",
-    "name": "Sigil, Pet or Jar from Cerb",
+    "name": "Sigil, Pet or Jar from Corp",
     "fontSize": 18,
     "pointValueClass": "pink",
     "images": [
       {
-        "src": "https://oldschool.runescape.wiki/images/Cerberus.png",
+        "src": "https://oldschool.runescape.wiki/images/Corporeal_Beast.png?52ebb",
         "heightInPx": 100,
         "offsetTop": -20,
-        "offsetLeft": -20
+        "offsetLeft": -25
       }
     ]
   },
