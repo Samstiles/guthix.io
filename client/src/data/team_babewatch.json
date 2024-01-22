@@ -2,7 +2,7 @@
   "leaderName": "Babewatch",
   "tiles": {
     "tile_6": false,
-    "tile_13": false,
+    "tile_13": true,
     "tile_17": false,
     "tile_16a": false,
     "tile_18": false,
