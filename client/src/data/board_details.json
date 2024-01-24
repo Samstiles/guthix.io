@@ -597,7 +597,7 @@
   "tile_66": {
     "tileId": "66",
     "name": "Any KQ Unique",
-    "tooltip": "Kalphite head (tattered or regular) does NOT count!",
+    "tooltip": "Tattered Kalphite head does NOT count!",
     "fontSize": 18,
     "pointValueClass": "yellow",
     "images": [
