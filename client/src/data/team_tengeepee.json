@@ -79,7 +79,7 @@
     "tile_160": true,
     "tile_172": true,
     "tile_175": true,
-    "tile_262": false,
+    "tile_262": true,
     "tile_263": false
   }
 }
