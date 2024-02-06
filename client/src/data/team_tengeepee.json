@@ -3,7 +3,7 @@
   "tiles": {
     "tile_6": false,
     "tile_13": true,
-    "tile_17": false,
+    "tile_17": true,
     "tile_16a": true,
     "tile_18": false,
     "tile_20a": true,
@@ -58,7 +58,7 @@
     "tile_97": true,
     "tile_98a": true,
     "tile_100a": true,
-    "tile_101": false,
+    "tile_101": true,
     "tile_107": false,
     "tile_115a": true,
     "tile_116": true,
